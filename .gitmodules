@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/PORaymond/submodule.git
+[submodule "legendary-submod"]
+	path = legendary-submod
+	url = https://github.com/PORaymond/lengerdary-second-submod.git
